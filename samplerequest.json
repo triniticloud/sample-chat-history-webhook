@@ -1,0 +1,272 @@
+{
+    "id": "mid.wo6nw061",
+    "session_id": "39b02d8d-814a-4c0f-91d4-be3d033ce549",
+    "time": "Tue Feb 04 02:52:43 GMT 2020",
+    "user": {
+        "id": "646417115618226",
+        "profile": {},
+        "channel_id": "646417115618226",
+        "logged_id": false
+    },
+    
+    "bot": {
+        "id": "1945",
+        "channel_type": "W",
+        "channel_id": "1945w76383060382",
+        "developer_mode": true,
+        "language_code": "en",
+        "sync": true
+    },
+    "request": {
+        "type": "postback",
+        "text": "Riase tickt",
+        "payload": "{\"id\":\"pid.1580784295476:397701320583975\",\"message\":\"Riase tickt\",\"payloadData\":{\"intent\":\"raise-ticket\",\"data\":{\"options\":\"no\"}},\"allowMultipleClicks\":true,\"inTransaction\":false,\"langCode\":\"en\"}",
+        "langCode": "en",
+        "userId": "646417115618226"
+    },
+    "nlp": {
+        "version": "v1",
+        "data": {
+            "intent": {
+                "name": "raise-ticket",
+                "feature": null,
+                "confidence": 100.0,
+                "classifierName": null,
+                "adversarialScore": null,
+                "starter": true,
+                "userSelection": false
+            },
+            "payloadData": {
+                "intent": "raise-ticket",
+                "data": {
+                    "options": "no"
+                }
+            },
+            "langCode": "en",
+            "tentativeContextChange": false,
+            "compoundQuery": false
+        }
+    },
+    "event": "chat_history",
+    "chat_history": {
+        "messages": [{
+            "reqDate": "2020-02-04T02:44:58Z",
+            "resDate": "2020-02-04T02:45:00Z",
+            "mesgId": "mid.u333j6tr",
+            "mesgReply": {
+                "messages": [{
+                    "id": "mid.1580784300418271553160950903",
+                    "message": {
+                        "type": "text",
+                        "text": "Sure XXX",
+                        "speechData": "Sure XXX",
+                        "payload": {}
+                    },
+                    "response": null
+                }]
+            },
+            "mesgText": "Riase tickt",
+            "mesgType": "postback"
+        }, {
+            "reqDate": "2020-02-04T02:44:54Z",
+            "resDate": "2020-02-04T02:44:55Z",
+            "mesgId": "mid.276l3w74",
+            "mesgReply": {
+                "messages": [{
+                    "id": "mid.1580784295509488482690117273",
+                    "message": {
+                        "type": "custom",
+                        "speechData": "Sorry",
+                        "card": {
+                            "templateType": "ButtonCardTemplate",
+                            "content": [{
+                                "element": {
+                                    "title": {
+                                        "text": "Sorry",
+                                        "type": "label"
+                                    },
+                                    "buttons": [{
+                                        "text": "Riase tickt",
+                                        "type": "button",
+                                        "payload": "{\"id\":\"pid.1580784295476:397701320583975\",\"message\":\"Riase tickt\",\"payloadData\":{\"intent\":\"raise-ticket\",\"data\":{\"options\":\"no\"}},\"allowMultipleClicks\":true,\"inTransaction\":false,\"langCode\":\"en\"}",
+                                        "action": "postback",
+                                        "allowMultipleClicks": false,
+                                        "radio": false
+                                    }]
+                                }
+                            }],
+                            "tabContent": []
+                        },
+                        "payload": {}
+                    },
+                    "response": null
+                }]
+            },
+            "mesgText": "what is neft",
+            "mesgType": "text"
+        }, {
+            "reqDate": "2020-02-04T02:44:51Z",
+            "resDate": "2020-02-04T02:44:51Z",
+            "mesgId": "mid.fj0n4oij",
+            "mesgReply": {
+                "messages": [{
+                    "id": "mid.1580784291290320720495842831",
+                    "message": {
+                        "type": "text",
+                        "text": "Hi! I am your Smart Assistant!. What shall we look at first?",
+                        "speechData": "Hi! I am your Smart Assistant!. What shall we look at first?",
+                        "payload": {}
+                    },
+                    "response": null
+                }]
+            },
+            "mesgText": "Hi",
+            "mesgType": "text"
+        }, {
+            "reqDate": "2020-02-04T02:44:50Z",
+            "resDate": "2020-02-04T02:44:50Z",
+            "mesgId": "mid.0.0.bthkk4no4a6",
+            "mesgReply": {
+                "messages": [{
+                    "id": "mid.1580784290402926581084814254",
+                    "message": {
+                        "type": "text",
+                        "text": "Hi! I am your Smart Assistant!. What shall we look at first?",
+                        "speechData": "Hi! I am your Smart Assistant!. What shall we look at first?",
+                        "payload": {}
+                    },
+                    "response": null
+                }]
+            },
+            "mesgText": "hi",
+            "mesgType": "text"
+        }, {
+            "reqDate": "2020-02-03T14:39:08Z",
+            "resDate": "2020-02-03T14:39:11Z",
+            "mesgId": "mid.esx4x30l",
+            "mesgReply": {
+                "messages": [{
+                    "id": "mid.1580740751104263560837872033",
+                    "message": {
+                        "type": "text",
+                        "text": "Sure XXX",
+                        "speechData": "Sure XXX",
+                        "payload": {}
+                    },
+                    "response": null
+                }]
+            },
+            "mesgText": "Riase tickt",
+            "mesgType": "postback"
+        }, {
+            "reqDate": "2020-02-03T14:35:35Z",
+            "resDate": "2020-02-03T14:35:37Z",
+            "mesgId": "mid.tiig9sll",
+            "mesgReply": {
+                "messages": [{
+                    "id": "mid.1580740537597551765416154801",
+                    "message": {
+                        "type": "text",
+                        "text": "Sure XXX",
+                        "speechData": "Sure XXX",
+                        "payload": {}
+                    },
+                    "response": null
+                }]
+            },
+            "mesgText": "Riase tickt",
+            "mesgType": "postback"
+        }, {
+            "reqDate": "2020-02-03T14:33:24Z",
+            "resDate": "2020-02-03T14:33:26Z",
+            "mesgId": "mid.2p0aqe87",
+            "mesgReply": {
+                "messages": [{
+                    "id": "mid.1580740406939937983578131926",
+                    "message": {
+                        "type": "text",
+                        "text": "Sure XXX",
+                        "speechData": "Sure XXX",
+                        "payload": {}
+                    },
+                    "response": null
+                }]
+            },
+            "mesgText": "Riase tickt",
+            "mesgType": "postback"
+        }, {
+            "reqDate": "2020-02-03T14:33:22Z",
+            "resDate": "2020-02-03T14:33:23Z",
+            "mesgId": "mid.oc4icv31",
+            "mesgReply": {
+                "messages": [{
+                    "id": "mid.1580740403256608302244503696",
+                    "message": {
+                        "type": "custom",
+                        "speechData": "Sorry",
+                        "card": {
+                            "templateType": "ButtonCardTemplate",
+                            "content": [{
+                                "element": {
+                                    "title": {
+                                        "text": "Sorry",
+                                        "type": "label"
+                                    },
+                                    "buttons": [{
+                                        "text": "Riase tickt",
+                                        "type": "button",
+                                        "payload": "{\"id\":\"pid.1580740403227:072214363587279\",\"message\":\"Riase tickt\",\"payloadData\":{\"intent\":\"raise-ticket\",\"data\":{\"options\":\"no\"}},\"allowMultipleClicks\":true,\"inTransaction\":false,\"langCode\":\"en\"}",
+                                        "action": "postback",
+                                        "allowMultipleClicks": false,
+                                        "radio": false
+                                    }]
+                                }
+                            }],
+                            "tabContent": []
+                        },
+                        "payload": {}
+                    },
+                    "response": null
+                }]
+            },
+            "mesgText": "what is neft",
+            "mesgType": "text"
+        }, {
+            "reqDate": "2020-02-03T14:31:05Z",
+            "resDate": "2020-02-03T14:31:07Z",
+            "mesgId": "mid.h735st6p",
+            "mesgReply": {
+                "messages": [{
+                    "id": "mid.1580740267865448568478158643",
+                    "message": {
+                        "type": "text",
+                        "text": "Sure XXX",
+                        "speechData": "Sure XXX",
+                        "payload": {}
+                    },
+                    "response": null
+                }]
+            },
+            "mesgText": "Riase tickt",
+            "mesgType": "postback"
+        }, {
+            "reqDate": "2020-02-03T14:30:27Z",
+            "resDate": "2020-02-03T14:30:27Z",
+            "mesgId": "mid.camnjgek",
+            "mesgReply": {
+                "messages": [{
+                    "id": "mid.1580740227842086151127352710",
+                    "message": {
+                        "type": "text",
+                        "text": "We are experiencing some difficulty in processing. Could you please try again later?",
+                        "speechData": "We are experiencing some difficulty in processing. Could you please try again later?",
+                        "payload": {}
+                    },
+                    "response": null
+                }]
+            },
+            "mesgText": "Riase tickt",
+            "mesgType": "postback"
+        }]
+    }
+}
